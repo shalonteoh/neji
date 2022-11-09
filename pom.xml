@@ -102,6 +102,9 @@
         <targetJdk>1.8</targetJdk>
 
         <mainClass>pt.ua.tm.neji.cli.Main</mainClass>
+
+        <sonar.organization>shalonteoh</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <!--
